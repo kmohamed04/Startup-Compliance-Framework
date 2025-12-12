@@ -155,16 +155,7 @@ This framework demonstrates a full end-to-end GRC implementation suitable for:
 
 ---
 
-## 📅 Version
-**Version 1.0 — Completed GRC Framework**
 
-Future versions may include:
-- Evidence repository  
-- SOPs (Playbooks)  
-- Automated dashboards  
-- Third-party security questionnaires  
-
----
 
 
 
