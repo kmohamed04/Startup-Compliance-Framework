@@ -139,9 +139,7 @@ These documents establish accountability and long-term sustainability of the GRC
 
 This framework demonstrates a full end-to-end GRC implementation suitable for:
 - Small businesses  
-- Consulting startups  
-- Portfolio demonstration  
-- Interview discussions  
+- Consulting startups   
 - Real-world governance structure  
 - SOC 2 or ISO 27001 readiness (foundational level)  
 
